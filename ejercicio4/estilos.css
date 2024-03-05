@@ -1,0 +1,51 @@
+.miboton{
+    padding-left:16px;
+    margin-right: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-weight:bold;
+    font-size: 10px;
+    color: blueviolet;
+    background-color: rgb(195, 145, 243);
+    width: 20%;
+    margin-top: 4px;
+}
+
+.misbordes{
+    margin-top:16px;
+    margin-bottom:20px;
+    margin-left:16px;
+    padding-right:16px;
+}
+
+.mitamaño{
+    width: 336px;
+    height: 336px;
+}
+
+.mititulo{
+    font-weight:bold;
+    background-color: rgb(252, 252, 252);
+    padding-bottom: 1px;
+    font-size: 16px;
+    margin-bottom: 4px;
+    margin-top: 16px;
+}
+
+
+div.mitexto > p.card-text{
+    padding: 0%;
+    margin: 0%;
+    font-size: 13px;
+}
+
+.minombre{
+    margin-top: 40px;
+    font-size: 11px;
+}
+
+.miimagen{
+    margin-bottom: 16px;
+    height: 152px;
+    width: 336px;
+}
